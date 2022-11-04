@@ -1,4 +1,4 @@
-# bloc_photo_library
+# Photo Library Using Bloc & Flutter
 
 A new Flutter project.
 
